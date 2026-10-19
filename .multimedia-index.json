@@ -1,11 +1,16 @@
 {
 	"video": {
-		"acd464c925c508929c394af491b293dca3f2527e6d45e3624f97b779ee9e1d21": "20260929-20-30.webm"
+		"acd464c925c508929c394af491b293dca3f2527e6d45e3624f97b779ee9e1d21": "20260929-20-30.webm",
+		"c643d9ade9b77148b4c53a8aa59df239773d41ec6bb3287819e5abf5bb4eebf9": "20261019-20-35.webm",
+		"157be881b0918b9f5fa04df367ad3173e649643b0cb0866230a715d53f1994ec": "20261019-20-35 (slow).webm"
 	},
 	"pdf": {
 		"873880201822b1fc74e07d1b2e50e7faa8a39e998c7e7eb2ee5db1958ad29be4": "wes-DNaturalBlues.pdf",
 		"486b46c47426a82a0b22536423ca4148e3c5822e5e954ba3c0aef9b147b135dc": "modos de la escala diatonica (mayor-menor).pdf",
-		"cb0b7a881e6a1a44674b46858e9a3ade04a2794fbffe20b14f8ce4572e88b969": "Clasificación de intervalos.pdf"
+		"cb0b7a881e6a1a44674b46858e9a3ade04a2794fbffe20b14f8ce4572e88b969": "Clasificación de intervalos.pdf",
+		"55a33e2a5659f72a4e34754b8ddb5ffc6b3d206ac491f6ab6b98693cd8d9ec6b": "ornithology (real book).pdf",
+		"dffb43124db81b7f0a83d39391f913141c60a60ccac72716e0b3f84261f3d272": "ornithology (aebersold).pdf",
+		"aa1ad537617013420fd9b7cf49bb79742bdef068cd8d6409d38a934198723d67": "Tipos de acordes (triada-cuatriada).pdf"
 	},
 	"audio": {
 		"c615ef68ed9e8de25923b8eba1e717d58db283263c55770d2ffd7c2283877081": "Wes Montgomery - D Natural Blues.mp3"
