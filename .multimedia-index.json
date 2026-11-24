@@ -2,7 +2,14 @@
 	"video": {
 		"acd464c925c508929c394af491b293dca3f2527e6d45e3624f97b779ee9e1d21": "20260929-20-30.webm",
 		"c643d9ade9b77148b4c53a8aa59df239773d41ec6bb3287819e5abf5bb4eebf9": "20261019-20-35.webm",
-		"157be881b0918b9f5fa04df367ad3173e649643b0cb0866230a715d53f1994ec": "20261019-20-35 (slow).webm"
+		"157be881b0918b9f5fa04df367ad3173e649643b0cb0866230a715d53f1994ec": "20261019-20-35 (slow).webm",
+		"38b93601f3c45035732c7134c64bb1ccac418b755f1db6f6fc683445af60ced5": "D Blues.mp4",
+		"a39a354f77ff817aab6a902b711aa7450bd651b2c983e0c1c6cc7de2a26c010c": "Blues A.mp4",
+		"cebcc8fe0990ccd6214f554c12c02a51fa148b61ded90e5a2d096333e3b1175c": "Blues Am.mp4",
+		"94bc7fdc5f7f740fe4f0c1f82ec8ff90f6586343806e1636e882b01d2a2a33e0": "20261110-11-57.webm",
+		"a39e7fb38a5cf3379ccf471847e9ffc0de6b35c0ec23b61b1823ed1e99347f36": "20261110-12-25.webm",
+		"0143f7e01581c1b6942e69901daad80831a4c8ff9dd49c6b66838639e5ac1fa7": "G7+ all patterns.webm",
+		"f3098bcbbfc606027135b636b8e78ac0e74a490ee27621f37f851a3519e5d1d3": "20261124-13-48.webm"
 	},
 	"pdf": {
 		"873880201822b1fc74e07d1b2e50e7faa8a39e998c7e7eb2ee5db1958ad29be4": "wes-DNaturalBlues.pdf",
@@ -10,9 +17,25 @@
 		"cb0b7a881e6a1a44674b46858e9a3ade04a2794fbffe20b14f8ce4572e88b969": "Clasificación de intervalos.pdf",
 		"55a33e2a5659f72a4e34754b8ddb5ffc6b3d206ac491f6ab6b98693cd8d9ec6b": "ornithology (real book).pdf",
 		"dffb43124db81b7f0a83d39391f913141c60a60ccac72716e0b3f84261f3d272": "ornithology (aebersold).pdf",
-		"aa1ad537617013420fd9b7cf49bb79742bdef068cd8d6409d38a934198723d67": "Tipos de acordes (triada-cuatriada).pdf"
+		"aa1ad537617013420fd9b7cf49bb79742bdef068cd8d6409d38a934198723d67": "Tipos de acordes (triada-cuatriada).pdf",
+		"fecf90df3607e2258ac40f4a89c7dc7818bd8492c38b20819802db8cd4399b84": "wes-DNaturalBlues-analysis.pdf",
+		"20647392e9379d3ad20f542954f61c51e1da2d49de44071367a4211bcb06e9ea": "BLUESES.pdf",
+		"d7cc3dee8bb2ae797ced5a3b09794cdc12ab0f1944c76a441f3eb56f265f1ea8": "Singing the Blues - Pages from Beginning Fingerstyle Blues.pdf",
+		"38aedbeb06075aca05313086c630adf8282fdc87da2cd382e77ae5917ca74a14": "four.pdf",
+		"77ffc281aeeb828b9ca5dbc5d23c2f8147ffab26b192fe079268adc562d4fde9": "solar.pdf",
+		"d1cdb7c2b4a71ac3d83d92310ebfb3f3a0b7868dae72ed4e1d7431a6a35f9033": "Acordes-dominantes-Hugo.pdf",
+		"3e2c67936d61087aec337c324018a3ca953dc19754497ae61ffd4d18b4fdf756": "Pages from David Baker - II-V Miguel.pdf"
 	},
 	"audio": {
-		"c615ef68ed9e8de25923b8eba1e717d58db283263c55770d2ffd7c2283877081": "Wes Montgomery - D Natural Blues.mp3"
+		"c615ef68ed9e8de25923b8eba1e717d58db283263c55770d2ffd7c2283877081": "Wes Montgomery - D Natural Blues.mp3",
+		"fae817afe9ae277d74179061b831985023e449da4c407c69b5b0d71ca1818973": "D Blues.MP3",
+		"15415d636a70f35ae8d0fda0ac56e401b38b6b2fd20a804bbad980bd3d93566c": "E Lidio.mp3",
+		"15866c8fad2dabae14538801841fd16d6df45786eb440464bc2c08cac382480e": "Blues A.mp3",
+		"728478cc17298b58115af11bacf113cef56d87ad7ed22bef808ebe638a44fd8a": "Blues Am.mp3",
+		"7214cb4e67fe0763805d3913f0fe4439b70522d15e22eb547e7746920b00a8b7": "Dm Dorian Backing Track.mp3",
+		"5ba3fae91e22aeb7aba6191ff9a86c37f5fe0c658da6c6346f82d3757e8d0d00": "88 - Solar.mp3",
+		"1b0201b3766e1e1b525d3b0fb66346242a563dcc82d77f5c35fafe808012b0bf": "17 Solar(Melody).mp3",
+		"db492dbd3dad06bb6129ecdaa704d55d41580daaee38317c3bb787cc6ccd91e9": "G7+.mp3",
+		"37f72eb05c2057538503c2fa6db31ee84ceab41c258880fad4df5b0b4c48b836": "G7+ (32).mp3"
 	}
 }
